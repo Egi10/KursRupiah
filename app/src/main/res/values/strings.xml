@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kurs Rupiah</string>
+    <string name="_1_united_states_dollar_equals">1 United States Dollar equals</string>
+    <string name="indonesia_rupiah">Indonesia Rupiah</string>
+    <string name="cek">Check</string>
+    <string name="usd">USD</string>
+    <string name="cek_dollar_ke_dalam_rupiah">Check Dollar into Rupiah</string>
+    <string name="o">0</string>
+    <string name="sumber_api">Source API</string>
+    <string name="http_www_adisurya_net_kurs_bca_get_matauang_usd">http://www.adisurya.net/kurs-bca/get?MataUang=USD</string>
+</resources>
