@@ -1,5 +1,5 @@
-# KursRupiah
+# Kurs Rupiah
 Melakukan Cek Rupiah Terhadap Dolar
 
-Sumber API
+# Sumber API
 http://www.adisurya.net/kurs-bca/get?MataUang=USD
